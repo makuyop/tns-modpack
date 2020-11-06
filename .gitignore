@@ -1,0 +1,18 @@
+# Ignore uncommitable folders
+/src/downloads
+/src/journeymap
+/src/logs
+/src/mods
+/src/saves
+
+# Ignore log files
+*.log
+
+# Ignore option files from Minecraft and Optifine
+options.txt
+optionsof.txt
+optionsshaders.txt
+
+# Ignore user specific files
+usercache.json
+usernamecache.json
