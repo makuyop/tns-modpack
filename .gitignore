@@ -1,11 +1,16 @@
+# Ignore log files
+*.log
+
+# Ignore binaries
+*.jar
+*.dll
+*.exe
+
 # Ignore unwanted folders
 /downloads
 /journeymap
 /logs
 /mods
-
-# Ignore log files
-*.log
 
 # Ignore option files from Minecraft and Optifine
 options.txt
