@@ -1,9 +1,8 @@
 # Ignore unwanted folders
-/Technic'n'Survival/downloads
-/Technic'n'Survival/journeymap
-/Technic'n'Survival/logs
-/Technic'n'Survival/mods
-/Technic'n'Survival/saves
+/downloads
+/journeymap
+/logs
+/mods
 
 # Ignore log files
 *.log
